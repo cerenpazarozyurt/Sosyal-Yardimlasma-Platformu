@@ -1,5 +1,5 @@
 Sosyal Yardım Platformu 🌟
-Bu proje, sosyal yardımlaşmayı desteklemek amacıyla geliştirilen bir web tabanlı platformdur. Tasarımından kodlamasına kadar tüm aşamaları kendi emeğimle oluşturulmuştur.
+Bu proje, sosyal yardımlaşmayı desteklemek amacıyla geliştirilen bir web tabanlı platformdur.
 
 Özellikler ✨
 Acil Destek: Afet destek talepleri oluşturulabilir ve kategorilere ayrılarak sayfada gösterilir. 
